@@ -10,6 +10,6 @@ wines.
 ___
 ## Files included
 1. One jpynb File: AMAMTH482_HW3_LangQin.jpynb - code to complete the project
-2. Two PDF Files: AMATH482HW3.pdf - report for project; HW1.pdf - homework specification
+2. Two PDF Files: AMATH482HW3.pdf - report for project; HW3.pdf - homework specification
 3. Three CSV Files: wine_training.csv - 1115 instances for training; wine_test.csv - 479 instances for test; wine_new_batch.csv - batch of 5 wines for analysis
 4. README.md
